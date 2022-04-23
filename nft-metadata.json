@@ -1,0 +1,16 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "donoknow"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "hazel"
+    }
+  ],
+  "description": "The world's most adorable and sensitive cat.",
+  "image": "https://gateway.pinata.cloud/ipfs/xxxxx",  
+  "name": "audrey"
+}
+
